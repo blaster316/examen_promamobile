@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Eva4</string>
+    <string name="guardar_sitio">Guardar Sitio</string>
+    <string name="lugar">Lugar</string>
+    <string name="imagen_de_referencia">Imagen de referencia</string>
+    <string name="costo_alojamiento">Costo Alojamiento</string>
+    <string name="costo_traslados">Costo Traslados</string>
+    <string name="comentario">Comentario</string>
+    <string name="guardar">Guardar</string>
+    <string name="lugares">Lugares</string>
+    <string name="agregar">Agregar</string>
+    <string name="guardar_lugar">Guardar lugar</string>
+    <string name="regresar">Regresar</string>
+    <string name="costo_x_noche">Costo x Noche</string>
+    <string name="traslado">Traslado</string>
+    <string name="comentarios">Comentarios :</string>
+    <string name="actualizar_sitio">Actualizar Sitio</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="error_message">Este campo es obligatorio</string>
+    <string name="sitio_agregado">Sitio agregado</string>
+    <string name="eliminar_lugar">Eliminar lugar</string>
+    <string name="estar_seguro_eliminar">¿Estás seguro de que deseas eliminar este lugar?</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="sitio_actualizado">Sitio actualizado</string>
+
+</resources>
